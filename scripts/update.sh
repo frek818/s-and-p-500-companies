@@ -5,7 +5,7 @@ SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 cd $SCRIPT_DIR
 
 # generate new data
-python scripts/constituents.py
+python constituents.py
 
 # Save changes
 git add ../data/constituents.csv 
