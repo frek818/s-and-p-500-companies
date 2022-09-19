@@ -130,6 +130,7 @@ COO,CooperCompanies,Health Care
 CPRT,Copart,Industrials
 GLW,Corning Inc.,Information Technology
 CTVA,Corteva,Materials
+CSGP,CoStar Group,Industrials
 COST,Costco,Consumer Staples
 CTRA,Coterra,Energy
 CCI,Crown Castle,Real Estate
@@ -252,6 +253,7 @@ IP,International Paper,Materials
 INTU,Intuit,Information Technology
 ISRG,Intuitive Surgical,Health Care
 IVZ,Invesco,Financials
+INVH,Invitation Homes,Real Estate
 IQV,IQVIA,Health Care
 IRM,Iron Mountain,Real Estate
 JBHT,J.B. Hunt,Industrials
@@ -360,7 +362,6 @@ PH,Parker Hannifin,Industrials
 PAYX,Paychex,Information Technology
 PAYC,Paycom,Information Technology
 PYPL,PayPal,Information Technology
-PENN,Penn Entertainment,Consumer Discretionary
 PNR,Pentair,Industrials
 PEP,PepsiCo,Consumer Staples
 PKI,PerkinElmer,Health Care
@@ -382,7 +383,6 @@ PTC,PTC,Information Technology
 PEG,Public Service Enterprise Group,Utilities
 PSA,Public Storage,Real Estate
 PHM,PulteGroup,Consumer Discretionary
-PVH,PVH,Consumer Discretionary
 QRVO,Qorvo,Information Technology
 QCOM,Qualcomm,Information Technology
 PWR,Quanta Services,Industrials
