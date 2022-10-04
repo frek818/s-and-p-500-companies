@@ -157,7 +157,6 @@ DOV,Dover Corporation,Industrials
 DOW,Dow Inc.,Materials
 DTE,DTE Energy,Utilities
 DUK,Duke Energy,Utilities
-DRE,Duke Realty,Real Estate
 DD,DuPont,Materials
 DXC,DXC Technology,Information Technology
 EMN,Eastman Chemical Company,Materials
@@ -174,6 +173,7 @@ ENPH,Enphase,Information Technology
 ETR,Entergy,Utilities
 EOG,EOG Resources,Energy
 EPAM,EPAM Systems,Information Technology
+EQT,EQT,Energy
 EFX,Equifax,Industrials
 EQIX,Equinix,Real Estate
 EQR,Equity Residential,Real Estate
@@ -365,6 +365,7 @@ PNR,Pentair,Industrials
 PEP,PepsiCo,Consumer Staples
 PKI,PerkinElmer,Health Care
 PFE,Pfizer,Health Care
+PCG,PG&E,Utilities
 PM,Philip Morris International,Consumer Staples
 PSX,Phillips 66,Energy
 PNW,Pinnacle West,Utilities
