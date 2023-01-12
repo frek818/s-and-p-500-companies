@@ -1,5 +1,4 @@
 Symbol,Name,Sector
-BMY, Bristol-Myers Squibb Co.,Health Care
 MMM,3M,Industrials
 AOS,A. O. Smith,Industrials
 ABT,Abbott,Health Care
@@ -76,6 +75,7 @@ BKNG,Booking Holdings,Consumer Discretionary
 BWA,BorgWarner,Consumer Discretionary
 BXP,Boston Properties,Real Estate
 BSX,Boston Scientific,Health Care
+BMY,Bristol Myers Squibb,Health Care
 AVGO,Broadcom Inc.,Information Technology
 BR,Broadridge Financial Solutions,Information Technology
 BRO,Brown & Brown,Financials
