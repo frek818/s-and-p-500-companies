@@ -116,6 +116,7 @@ CFG,Citizens Financial Group,Regional Banks
 CLX,Clorox,Household Products
 CME,CME Group,Financial Exchanges & Data
 CMS,CMS Energy,Multi-Utilities
+KO,Coca-Cola Company (The),Soft Drinks
 CTSH,Cognizant,IT Consulting & Other Services
 CL,Colgate-Palmolive,Household Products
 CMCSA,Comcast,Cable & Satellite
@@ -178,6 +179,7 @@ EFX,Equifax,Research & Consulting Services
 EQIX,Equinix,Specialized REITs
 EQR,Equity Residential,Residential REITs
 ESS,Essex Property Trust,Residential REITs
+EL,Estée Lauder Companies (The),Personal Products
 ETSY,Etsy,Internet & Direct Marketing Retail
 RE,Everest Re,Reinsurance
 EVRG,Evergy,Electric Utilities
@@ -252,6 +254,7 @@ INTC,Intel,Semiconductors
 ICE,Intercontinental Exchange,Financial Exchanges & Data
 IFF,International Flavors & Fragrances,Specialty Chemicals
 IP,International Paper,Paper Packaging
+IPG,Interpublic Group of Companies (The),Advertising
 INTU,Intuit,Application Software
 ISRG,Intuitive Surgical,Health Care Equipment
 IVZ,Invesco,Asset Management & Custody Banks
@@ -259,6 +262,7 @@ INVH,Invitation Homes,Residential REITs
 IQV,IQVIA,Life Sciences Tools & Services
 IRM,Iron Mountain,Specialized REITs
 JBHT,J.B. Hunt,Trucking
+SJM,J.M. Smucker Company (The),Packaged Foods & Meats
 JKHY,Jack Henry & Associates,Data Processing & Outsourced Services
 J,Jacobs Solutions,Construction & Engineering
 DE,John Deere,Agricultural & Farm Machinery
@@ -324,6 +328,7 @@ MPWR,Monolithic Power Systems,Semiconductors
 MNST,Monster Beverage,Soft Drinks
 MCO,Moody's Corporation,Financial Exchanges & Data
 MS,Morgan Stanley,Investment Banking & Brokerage
+MOS,Mosaic Company (The),Fertilizers & Agricultural Chemicals
 MSI,Motorola Solutions,Communications Equipment
 MSCI,MSCI,Financial Exchanges & Data
 NDAQ,Nasdaq Inc.,Financial Exchanges & Data
@@ -442,17 +447,12 @@ TER,Teradyne,Semiconductor Equipment
 TSLA,Tesla Inc.,Automobile Manufacturers
 TXN,Texas Instruments,Semiconductors
 TXT,Textron,Aerospace & Defense
-KO,The Coca-Cola Company,Soft Drinks
-EL,The Estée Lauder Companies,Personal Products
-IPG,The Interpublic Group of Companies,Advertising
-SJM,The J.M. Smucker Company,Packaged Foods & Meats
-MOS,The Mosaic Company,Fertilizers & Agricultural Chemicals
-TRV,The Travelers Companies,Property & Casualty Insurance
 TMO,Thermo Fisher Scientific,Life Sciences Tools & Services
 TJX,TJX Companies,Apparel Retail
 TSCO,Tractor Supply,Specialty Stores
 TT,Trane Technologies,Building Products
 TDG,TransDigm Group,Aerospace & Defense
+TRV,Travelers Companies (The),Property & Casualty Insurance
 TRMB,Trimble Inc.,Electronic Equipment & Instruments
 TFC,Truist,Regional Banks
 TYL,Tyler Technologies,Application Software
