@@ -32,7 +32,7 @@ AAL,American Airlines Group,Passenger Airlines
 AEP,American Electric Power,Electric Utilities
 AXP,American Express,Consumer Finance
 AIG,American International Group,Property & Casualty Insurance
-AMT,American Tower,Specialized REITs
+AMT,American Tower,Telecom Tower REITs
 AWK,American Water Works,Water Utilities
 AMP,Ameriprise Financial,Asset Management & Custody Banks
 ABC,AmerisourceBergen,Health Care Distributors
@@ -134,7 +134,7 @@ CTVA,Corteva,Fertilizers & Agricultural Chemicals
 CSGP,CoStar Group,Research & Consulting Services
 COST,Costco,Consumer Staples Merchandise Retail
 CTRA,Coterra,Oil & Gas Exploration & Production
-CCI,Crown Castle,Specialized REITs
+CCI,Crown Castle,Telecom Tower REITs
 CSX,CSX,Rail Transportation
 CMI,Cummins,Industrial Machinery & Supplies & Components
 CVS,CVS Health,Health Care Services
@@ -147,7 +147,7 @@ XRAY,Dentsply Sirona,Health Care Supplies
 DVN,Devon Energy,Oil & Gas Exploration & Production
 DXCM,Dexcom,Health Care Equipment
 FANG,Diamondback Energy,Oil & Gas Exploration & Production
-DLR,Digital Realty,Specialized REITs
+DLR,Digital Realty,Data Center REITs
 DFS,Discover Financial,Consumer Finance
 DISH,Dish Network,Cable & Satellite
 DIS,Disney,Movies & Entertainment
@@ -177,7 +177,7 @@ EOG,EOG Resources,Oil & Gas Exploration & Production
 EPAM,EPAM Systems,IT Consulting & Other Services
 EQT,EQT,Oil & Gas Exploration & Production
 EFX,Equifax,Research & Consulting Services
-EQIX,Equinix,Specialized REITs
+EQIX,Equinix,Data Center REITs
 EQR,Equity Residential,Residential REITs
 ESS,Essex Property Trust,Residential REITs
 EL,Estée Lauder Companies (The),Personal Care Products
@@ -188,7 +188,7 @@ ES,Eversource,Multi-Utilities
 EXC,Exelon,Multi-Utilities
 EXPE,Expedia Group,Internet & Direct Marketing Retail
 EXPD,Expeditors International,Air Freight & Logistics
-EXR,Extra Space Storage,Specialized REITs
+EXR,Extra Space Storage,Self-Storage REITs
 XOM,ExxonMobil,Integrated Oil & Gas
 FFIV,F5 Inc.,Communications Equipment
 FDS,FactSet,Financial Exchanges & Data
@@ -263,7 +263,7 @@ ISRG,Intuitive Surgical,Health Care Equipment
 IVZ,Invesco,Asset Management & Custody Banks
 INVH,Invitation Homes,Residential REITs
 IQV,IQVIA,Life Sciences Tools & Services
-IRM,Iron Mountain,Specialized REITs
+IRM,Iron Mountain,Other Specialized REITs
 JBHT,J.B. Hunt,Cargo Ground Transportation
 SJM,J.M. Smucker Company (The),Packaged Foods & Meats
 JKHY,Jack Henry & Associates,Transaction & Payment Processing Services
@@ -389,7 +389,7 @@ PLD,Prologis,Industrial REITs
 PRU,Prudential Financial,Life & Health Insurance
 PTC,PTC,Application Software
 PEG,Public Service Enterprise Group,Electric Utilities
-PSA,Public Storage,Specialized REITs
+PSA,Public Storage,Self-Storage REITs
 PHM,PulteGroup,Homebuilding
 QRVO,Qorvo,Semiconductors
 QCOM,Qualcomm,Semiconductors
@@ -412,7 +412,7 @@ ROST,Ross Stores,Apparel Retail
 RCL,Royal Caribbean Group,"Hotels, Resorts & Cruise Lines"
 SPGI,S&P Global,Financial Exchanges & Data
 CRM,Salesforce,Application Software
-SBAC,SBA Communications,Specialized REITs
+SBAC,SBA Communications,Telecom Tower REITs
 SLB,Schlumberger,Oil & Gas Equipment & Services
 STX,Seagate Technology,"Technology Hardware, Storage & Peripherals"
 SEE,Sealed Air,Paper & Plastic Packaging Products & Materials
@@ -490,7 +490,7 @@ WELL,Welltower,Health Care REITs
 WST,West Pharmaceutical Services,Health Care Supplies
 WDC,Western Digital,"Technology Hardware, Storage & Peripherals"
 WRK,WestRock,Paper & Plastic Packaging Products & Materials
-WY,Weyerhaeuser,Specialized REITs
+WY,Weyerhaeuser,Timber REITs
 WHR,Whirlpool Corporation,Household Appliances
 WMB,Williams Companies,Oil & Gas Storage & Transportation
 WTW,Willis Towers Watson,Insurance Brokers
