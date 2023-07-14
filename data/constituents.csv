@@ -24,7 +24,7 @@ ALL,Allstate,Property & Casualty Insurance
 GOOGL,Alphabet Inc. (Class A),Interactive Media & Services
 GOOG,Alphabet Inc. (Class C),Interactive Media & Services
 MO,Altria,Tobacco
-AMZN,Amazon,
+AMZN,Amazon,Broadline Retail
 AMCR,Amcor,Paper & Plastic Packaging Products & Materials
 AMD,AMD,Semiconductors
 AEE,Ameren,Multi-Utilities
@@ -72,7 +72,7 @@ BIIB,Biogen,Biotechnology
 BLK,BlackRock,Asset Management & Custody Banks
 BK,BNY Mellon,Asset Management & Custody Banks
 BA,Boeing,Aerospace & Defense
-BKNG,Booking Holdings,
+BKNG,Booking Holdings,"Hotels, Restaurants & Leisure"
 BWA,BorgWarner,Automotive Parts & Equipment
 BXP,Boston Properties,Office REITs
 BSX,Boston Scientific,Health Care Equipment
@@ -163,7 +163,7 @@ DD,DuPont,Specialty Chemicals
 DXC,DXC Technology,IT Consulting & Other Services
 EMN,Eastman Chemical Company,Diversified Chemicals
 ETN,Eaton Corporation,Electrical Components & Equipment
-EBAY,eBay,
+EBAY,eBay,Broadline Retail
 ECL,Ecolab,Specialty Chemicals
 EIX,Edison International,Electric Utilities
 EW,Edwards Lifesciences,Health Care Equipment
@@ -181,12 +181,12 @@ EQIX,Equinix,Data Center REITs
 EQR,Equity Residential,Residential REITs
 ESS,Essex Property Trust,Residential REITs
 EL,Estée Lauder Companies (The),Personal Care Products
-ETSY,Etsy,
+ETSY,Etsy,Broadline Retail
 EG,Everest Re,Reinsurance
 EVRG,Evergy,Electric Utilities
 ES,Eversource,Multi-Utilities
 EXC,Exelon,Multi-Utilities
-EXPE,Expedia Group,
+EXPE,Expedia Group,"Hotels, Restaurants & Leisure"
 EXPD,Expeditors International,Air Freight & Logistics
 EXR,Extra Space Storage,Self-Storage REITs
 XOM,ExxonMobil,Integrated Oil & Gas
