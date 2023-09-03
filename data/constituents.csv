@@ -70,7 +70,7 @@ BIIB,Biogen,Biotechnology
 BLK,BlackRock,Asset Management & Custody Banks
 BK,BNY Mellon,Asset Management & Custody Banks
 BA,Boeing,Aerospace & Defense
-BKNG,Booking Holdings,"Hotels, Restaurants & Leisure"
+BKNG,Booking Holdings,"Hotels, Resorts & Cruise Lines"
 BWA,BorgWarner,Automotive Parts & Equipment
 BXP,Boston Properties,Office REITs
 BSX,Boston Scientific,Health Care Equipment
@@ -96,6 +96,7 @@ CBOE,Cboe Global Markets,Financial Exchanges & Data
 CBRE,CBRE Group,Real Estate Services
 CDW,CDW,Technology Distributors
 CE,Celanese,Specialty Chemicals
+COR,Cencora,Health Care Distributors
 CNC,Centene Corporation,Managed Health Care
 CNP,CenterPoint Energy,Multi-Utilities
 CDAY,Ceridian,Application Software
@@ -184,7 +185,7 @@ EG,Everest Re,Reinsurance
 EVRG,Evergy,Electric Utilities
 ES,Eversource,Multi-Utilities
 EXC,Exelon,Multi-Utilities
-EXPE,Expedia Group,"Hotels, Restaurants & Leisure"
+EXPE,Expedia Group,"Hotels, Resorts & Cruise Lines"
 EXPD,Expeditors International,Air Freight & Logistics
 EXR,Extra Space Storage,Self-Storage REITs
 XOM,ExxonMobil,Integrated Oil & Gas
