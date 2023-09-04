@@ -52,7 +52,7 @@ T,AT&T,Integrated Telecommunication Services
 ATO,Atmos Energy,Gas Utilities
 ADSK,Autodesk,Application Software
 AZO,AutoZone,Specialty Stores
-AVB,AvalonBay Communities,Residential REITs
+AVB,AvalonBay Communities,Multi-Family Residential REITs
 AVY,Avery Dennison,Paper & Plastic Packaging Products & Materials
 AXON,Axon Enterprise,Aerospace & Defense
 BKR,Baker Hughes,Oil & Gas Equipment & Services
@@ -83,7 +83,7 @@ BG,Bunge Limited,Agricultural Products & Services
 CHRW,C.H. Robinson,Air Freight & Logistics
 CDNS,Cadence Design Systems,Application Software
 CZR,Caesars Entertainment,Casinos & Gaming
-CPT,Camden Property Trust,Residential REITs
+CPT,Camden Property Trust,Multi-Family Residential REITs
 CPB,Campbell Soup Company,Packaged Foods & Meats
 COF,Capital One,Consumer Finance
 CAH,Cardinal Health,Health Care Distributors
@@ -177,8 +177,8 @@ EPAM,EPAM Systems,IT Consulting & Other Services
 EQT,EQT,Oil & Gas Exploration & Production
 EFX,Equifax,Research & Consulting Services
 EQIX,Equinix,Data Center REITs
-EQR,Equity Residential,Residential REITs
-ESS,Essex Property Trust,Residential REITs
+EQR,Equity Residential,Multi-Family Residential REITs
+ESS,Essex Property Trust,Multi-Family Residential REITs
 EL,Estée Lauder Companies (The),Personal Care Products
 ETSY,Etsy,Broadline Retail
 EG,Everest Re,Reinsurance
@@ -259,7 +259,7 @@ IPG,Interpublic Group of Companies (The),Advertising
 INTU,Intuit,Application Software
 ISRG,Intuitive Surgical,Health Care Equipment
 IVZ,Invesco,Asset Management & Custody Banks
-INVH,Invitation Homes,Residential REITs
+INVH,Invitation Homes,Single-Family Residential REITs
 IQV,IQVIA,Life Sciences Tools & Services
 IRM,Iron Mountain,Other Specialized REITs
 JBHT,J.B. Hunt,Cargo Ground Transportation
@@ -319,7 +319,7 @@ MGM,MGM Resorts,Casinos & Gaming
 MCHP,Microchip Technology,Semiconductors
 MU,Micron Technology,Semiconductors
 MSFT,Microsoft,Systems Software
-MAA,Mid-America Apartment Communities,Residential REITs
+MAA,Mid-America Apartment Communities,Multi-Family Residential REITs
 MRNA,Moderna,Biotechnology
 MHK,Mohawk Industries,Home Furnishings
 MOH,Molina Healthcare,Managed Health Care
@@ -458,7 +458,7 @@ TFC,Truist,Regional Banks
 TYL,Tyler Technologies,Application Software
 TSN,Tyson Foods,Packaged Foods & Meats
 USB,U.S. Bank,Diversified Banks
-UDR,UDR Inc.,Residential REITs
+UDR,UDR Inc.,Multi-Family Residential REITs
 ULTA,Ulta Beauty,Specialty Stores
 UNP,Union Pacific Corporation,Rail Transportation
 UAL,United Airlines Holdings,Passenger Airlines
