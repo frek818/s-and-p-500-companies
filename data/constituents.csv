@@ -12,6 +12,7 @@ AES,AES Corporation,Independent Power Producers & Energy Traders
 AFL,Aflac,Life & Health Insurance
 A,Agilent Technologies,Health Care Equipment
 APD,Air Products and Chemicals,Industrial Gases
+ABNB,Airbnb,"Hotels, Resorts & Cruise Lines"
 AKAM,Akamai,Internet Services & Infrastructure
 ALK,Alaska Air Group,Passenger Airlines
 ALB,Albemarle Corporation,Specialty Chemicals
@@ -68,6 +69,7 @@ BIO,Bio-Rad,Life Sciences Tools & Services
 TECH,Bio-Techne,Life Sciences Tools & Services
 BIIB,Biogen,Biotechnology
 BLK,BlackRock,Asset Management & Custody Banks
+BX,Blackstone,Asset Management & Custody Banks
 BK,BNY Mellon,Asset Management & Custody Banks
 BA,Boeing,Aerospace & Defense
 BKNG,Booking Holdings,"Hotels, Resorts & Cruise Lines"
@@ -289,7 +291,6 @@ LW,Lamb Weston,Packaged Foods & Meats
 LVS,Las Vegas Sands,Casinos & Gaming
 LDOS,Leidos,Diversified Support Services
 LEN,Lennar,Homebuilding
-LNC,Lincoln Financial,Multi-line Insurance
 LIN,Linde plc,Industrial Gases
 LYV,Live Nation Entertainment,Movies & Entertainment
 LKQ,LKQ Corporation,Distributors
@@ -335,7 +336,6 @@ MSCI,MSCI,Financial Exchanges & Data
 NDAQ,Nasdaq Inc.,Financial Exchanges & Data
 NTAP,NetApp,"Technology Hardware, Storage & Peripherals"
 NFLX,Netflix,Movies & Entertainment
-NWL,Newell Brands,Housewares & Specialties
 NEM,Newmont,Gold
 NWSA,News Corp (Class A),Publishing
 NWS,News Corp (Class B),Publishing
