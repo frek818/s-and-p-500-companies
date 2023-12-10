@@ -2,14 +2,13 @@ Symbol,Name,Sector
 MMM,3M,Industrial Conglomerates
 AOS,A. O. Smith,Building Products
 ABT,Abbott,Health Care Equipment
-ABBV,AbbVie,Pharmaceuticals
+ABBV,AbbVie,Biotechnology
 ACN,Accenture,IT Consulting & Other Services
-ADM,ADM,Agricultural Products & Services
 ADBE,Adobe Inc.,Application Software
-ADP,ADP,Human Resource & Employment Services
+AMD,Advanced Micro Devices,Semiconductors
 AES,AES Corporation,Independent Power Producers & Energy Traders
 AFL,Aflac,Life & Health Insurance
-A,Agilent Technologies,Health Care Equipment
+A,Agilent Technologies,Life Sciences Tools & Services
 APD,Air Products and Chemicals,Industrial Gases
 ABNB,Airbnb,"Hotels, Resorts & Cruise Lines"
 AKAM,Akamai,Internet Services & Infrastructure
@@ -25,12 +24,11 @@ GOOG,Alphabet Inc. (Class C),Interactive Media & Services
 MO,Altria,Tobacco
 AMZN,Amazon,Broadline Retail
 AMCR,Amcor,Paper & Plastic Packaging Products & Materials
-AMD,AMD,Semiconductors
 AEE,Ameren,Multi-Utilities
 AAL,American Airlines Group,Passenger Airlines
 AEP,American Electric Power,Electric Utilities
 AXP,American Express,Consumer Finance
-AIG,American International Group,Property & Casualty Insurance
+AIG,American International Group,Multi-line Insurance
 AMT,American Tower,Telecom Tower REITs
 AWK,American Water Works,Water Utilities
 AMP,Ameriprise Financial,Asset Management & Custody Banks
@@ -44,13 +42,15 @@ APA,APA Corporation,Oil & Gas Exploration & Production
 AAPL,Apple Inc.,"Technology Hardware, Storage & Peripherals"
 AMAT,Applied Materials,Semiconductor Materials & Equipment
 APTV,Aptiv,Automotive Parts & Equipment
-ACGL,Arch Capital Group,Reinsurance
+ACGL,Arch Capital Group,Property & Casualty Insurance
+ADM,Archer-Daniels-Midland,Agricultural Products & Services
 ANET,Arista Networks,Communications Equipment
 AJG,Arthur J. Gallagher & Co.,Insurance Brokers
 AIZ,Assurant,Multi-line Insurance
 T,AT&T,Integrated Telecommunication Services
 ATO,Atmos Energy,Gas Utilities
 ADSK,Autodesk,Application Software
+ADP,Automated Data Processing,Human Resource & Employment Services
 AZO,AutoZone,Automotive Retail
 AVB,AvalonBay Communities,Multi-Family Residential REITs
 AVY,Avery Dennison,Paper & Plastic Packaging Products & Materials
@@ -58,7 +58,8 @@ AXON,Axon Enterprise,Aerospace & Defense
 BKR,Baker Hughes,Oil & Gas Equipment & Services
 BALL,Ball Corporation,"Metal, Glass & Plastic Containers"
 BAC,Bank of America,Diversified Banks
-BBWI,Bath & Body Works Inc.,Specialty Stores
+BK,Bank of New York Mellon,Asset Management & Custody Banks
+BBWI,Bath & Body Works Inc.,Other Specialty Retail
 BAX,Baxter International,Health Care Equipment
 BDX,Becton Dickinson,Health Care Equipment
 WRB,Berkley,Property & Casualty Insurance
@@ -69,7 +70,6 @@ TECH,Bio-Techne,Life Sciences Tools & Services
 BIIB,Biogen,Biotechnology
 BLK,BlackRock,Asset Management & Custody Banks
 BX,Blackstone,Asset Management & Custody Banks
-BK,BNY Mellon,Asset Management & Custody Banks
 BA,Boeing,Aerospace & Defense
 BKNG,Booking Holdings,"Hotels, Resorts & Cruise Lines"
 BWA,BorgWarner,Automotive Parts & Equipment
@@ -81,7 +81,6 @@ BR,Broadridge Financial Solutions,Data Processing & Outsourced Services
 BRO,Brown & Brown,Insurance Brokers
 BF.B,Brown–Forman,Distillers & Vintners
 BG,Bunge Global SA,Agricultural Products & Services
-CHRW,C.H. Robinson,Air Freight & Logistics
 CDNS,Cadence Design Systems,Application Software
 CZR,Caesars Entertainment,Casinos & Gaming
 CPT,Camden Property Trust,Multi-Family Residential REITs
@@ -102,6 +101,7 @@ CNC,Centene Corporation,Managed Health Care
 CNP,CenterPoint Energy,Multi-Utilities
 CDAY,Ceridian,Human Resource & Employment Services
 CF,CF Industries,Fertilizers & Agricultural Chemicals
+CHRW,CH Robinson,Air Freight & Logistics
 CRL,Charles River Laboratories,Life Sciences Tools & Services
 SCHW,Charles Schwab Corporation,Investment Banking & Brokerage
 CHTR,Charter Communications,Cable & Satellite
@@ -109,7 +109,7 @@ CVX,Chevron Corporation,Integrated Oil & Gas
 CMG,Chipotle Mexican Grill,Restaurants
 CB,Chubb Limited,Property & Casualty Insurance
 CHD,Church & Dwight,Household Products
-CI,Cigna,Managed Health Care
+CI,Cigna,Health Care Services
 CINF,Cincinnati Financial,Property & Casualty Insurance
 CTAS,Cintas,Diversified Support Services
 CSCO,Cisco,Communications Equipment
@@ -125,9 +125,9 @@ CMCSA,Comcast,Cable & Satellite
 CMA,Comerica,Diversified Banks
 CAG,Conagra Brands,Packaged Foods & Meats
 COP,ConocoPhillips,Oil & Gas Exploration & Production
-ED,Consolidated Edison,Electric Utilities
+ED,Consolidated Edison,Multi-Utilities
 STZ,Constellation Brands,Distillers & Vintners
-CEG,Constellation Energy,Multi-Utilities
+CEG,Constellation Energy,Electric Utilities
 COO,CooperCompanies,Health Care Supplies
 CPRT,Copart,Diversified Support Services
 GLW,Corning Inc.,Electronic Components
@@ -137,12 +137,11 @@ COST,Costco,Consumer Staples Merchandise Retail
 CTRA,Coterra,Oil & Gas Exploration & Production
 CCI,Crown Castle,Telecom Tower REITs
 CSX,CSX,Rail Transportation
-CMI,Cummins,Industrial Machinery & Supplies & Components
+CMI,Cummins,Construction Machinery & Heavy Transportation Equipment
 CVS,CVS Health,Health Care Services
-DHI,D.R. Horton,Homebuilding
-DHR,Danaher Corporation,Health Care Equipment
+DHR,Danaher Corporation,Life Sciences Tolls & Services
 DRI,Darden Restaurants,Restaurants
-DVA,DaVita Inc.,Health Care Facilities
+DVA,DaVita Inc.,Health Care Services
 DAL,Delta Air Lines,Passenger Airlines
 XRAY,Dentsply Sirona,Health Care Supplies
 DVN,Devon Energy,Oil & Gas Exploration & Production
@@ -150,17 +149,17 @@ DXCM,Dexcom,Health Care Equipment
 FANG,Diamondback Energy,Oil & Gas Exploration & Production
 DLR,Digital Realty,Data Center REITs
 DFS,Discover Financial,Consumer Finance
-DIS,Disney,Movies & Entertainment
 DG,Dollar General,Consumer Staples Merchandise Retail
 DLTR,Dollar Tree,Consumer Staples Merchandise Retail
-D,Dominion Energy,Electric Utilities
+D,Dominion Energy,Multi-Utilities
 DPZ,Domino's,Restaurants
 DOV,Dover Corporation,Industrial Machinery & Supplies & Components
 DOW,Dow Inc.,Commodity Chemicals
+DHI,DR Horton,Homebuilding
 DTE,DTE Energy,Multi-Utilities
 DUK,Duke Energy,Electric Utilities
 DD,DuPont,Specialty Chemicals
-EMN,Eastman Chemical Company,Diversified Chemicals
+EMN,Eastman Chemical Company,Specialty Chemicals
 ETN,Eaton Corporation,Electrical Components & Equipment
 EBAY,eBay,Broadline Retail
 ECL,Ecolab,Specialty Chemicals
@@ -170,7 +169,7 @@ EA,Electronic Arts,Interactive Home Entertainment
 ELV,Elevance Health,Managed Health Care
 LLY,Eli Lilly and Company,Pharmaceuticals
 EMR,Emerson Electric,Electrical Components & Equipment
-ENPH,Enphase,Electronic Components
+ENPH,Enphase,Semiconductor Materials & Equipment
 ETR,Entergy,Electric Utilities
 EOG,EOG Resources,Oil & Gas Exploration & Production
 EPAM,EPAM Systems,IT Consulting & Other Services
@@ -183,8 +182,8 @@ EL,Estée Lauder Companies (The),Personal Care Products
 ETSY,Etsy,Broadline Retail
 EG,Everest Re,Reinsurance
 EVRG,Evergy,Electric Utilities
-ES,Eversource,Multi-Utilities
-EXC,Exelon,Multi-Utilities
+ES,Eversource,Electric Utilities
+EXC,Exelon,Electric Utilities
 EXPE,Expedia Group,"Hotels, Resorts & Cruise Lines"
 EXPD,Expeditors International,Air Freight & Logistics
 EXR,Extra Space Storage,Self-Storage REITs
@@ -192,33 +191,33 @@ XOM,ExxonMobil,Integrated Oil & Gas
 FFIV,F5 Inc.,Communications Equipment
 FDS,FactSet,Financial Exchanges & Data
 FICO,Fair Isaac,Application Software
-FAST,Fastenal,Building Products
+FAST,Fastenal,Trading Companies & Distributors
 FRT,Federal Realty,Retail REITs
 FDX,FedEx,Air Freight & Logistics
-FITB,Fifth Third Bank,Regional Banks
+FIS,Fidelity National Information Services,Transaction & Payment Processing Services
+FITB,Fifth Third Bank,Diversified Banks
 FSLR,First Solar,Semiconductors
 FE,FirstEnergy,Electric Utilities
-FIS,FIS,Transaction & Payment Processing Services
 FI,Fiserv,Transaction & Payment Processing Services
 FLT,Fleetcor,Transaction & Payment Processing Services
 FMC,FMC Corporation,Fertilizers & Agricultural Chemicals
 F,Ford Motor Company,Automobile Manufacturers
 FTNT,Fortinet,Systems Software
 FTV,Fortive,Industrial Machinery & Supplies & Components
-FOXA,Fox Corporation (Class A),Movies & Entertainment
-FOX,Fox Corporation (Class B),Movies & Entertainment
+FOXA,Fox Corporation (Class A),Broadcasting
+FOX,Fox Corporation (Class B),Broadcasting
 BEN,Franklin Templeton,Asset Management & Custody Banks
 FCX,Freeport-McMoRan,Copper
 GRMN,Garmin,Consumer Electronics
 IT,Gartner,IT Consulting & Other Services
-GEHC,GE HealthCare,Health Care Technology
-GEN,Gen Digital,Application Software
+GEHC,GE HealthCare,Health Care Equipment
+GEN,Gen Digital,Systems Software
 GNRC,Generac,Electrical Components & Equipment
 GD,General Dynamics,Aerospace & Defense
 GE,General Electric,Industrial Conglomerates
 GIS,General Mills,Packaged Foods & Meats
 GM,General Motors,Automobile Manufacturers
-GPC,Genuine Parts Company,Automotive Parts & Equipment
+GPC,Genuine Parts Company,Distributors
 GILD,Gilead Sciences,Biotechnology
 GPN,Global Payments,Transaction & Payment Processing Services
 GL,Globe Life,Life & Health Insurance
@@ -481,6 +480,7 @@ GWW,W. W. Grainger,Industrial Machinery & Supplies & Components
 WAB,Wabtec,Construction Machinery & Heavy Transportation Equipment
 WBA,Walgreens Boots Alliance,Drug Retail
 WMT,Walmart,Consumer Staples Merchandise Retail
+DIS,Walt Disney,Movies & Entertainment
 WBD,Warner Bros. Discovery,Broadcasting
 WM,Waste Management,Environmental & Facilities Services
 WAT,Waters Corporation,Life Sciences Tools & Services
