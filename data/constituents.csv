@@ -12,7 +12,6 @@ A,Agilent Technologies,Life Sciences Tools & Services
 APD,Air Products and Chemicals,Industrial Gases
 ABNB,Airbnb,"Hotels, Resorts & Cruise Lines"
 AKAM,Akamai,Internet Services & Infrastructure
-ALK,Alaska Air Group,Passenger Airlines
 ALB,Albemarle Corporation,Specialty Chemicals
 ARE,Alexandria Real Estate Equities,Office REITs
 ALGN,Align Technology,Health Care Supplies
@@ -80,6 +79,7 @@ AVGO,Broadcom Inc.,Semiconductors
 BR,Broadridge Financial Solutions,Data Processing & Outsourced Services
 BRO,Brown & Brown,Insurance Brokers
 BF.B,Brown–Forman,Distillers & Vintners
+BLDR,Builders FirstSource,Building Products
 BG,Bunge Global SA,Agricultural Products & Services
 CDNS,Cadence Design Systems,Application Software
 CZR,Caesars Entertainment,Casinos & Gaming
@@ -264,6 +264,7 @@ IQV,IQVIA,Life Sciences Tools & Services
 IRM,Iron Mountain,Other Specialized REITs
 JBHT,J.B. Hunt,Cargo Ground Transportation
 SJM,J.M. Smucker Company (The),Packaged Foods & Meats
+JBL,Jabil,Electronic Manufacturing Services
 JKHY,Jack Henry & Associates,Transaction & Payment Processing Services
 J,Jacobs Solutions,Construction & Engineering
 DE,John Deere,Agricultural & Farm Machinery
@@ -413,14 +414,12 @@ CRM,Salesforce,Application Software
 SBAC,SBA Communications,Telecom Tower REITs
 SLB,Schlumberger,Oil & Gas Equipment & Services
 STX,Seagate Technology,"Technology Hardware, Storage & Peripherals"
-SEE,Sealed Air,Paper & Plastic Packaging Products & Materials
 SRE,Sempra Energy,Multi-Utilities
 NOW,ServiceNow,Systems Software
 SHW,Sherwin-Williams,Specialty Chemicals
 SPG,Simon Property Group,Retail REITs
 SWKS,Skyworks Solutions,Semiconductors
 SNA,Snap-on,Industrial Machinery & Supplies & Components
-SEDG,SolarEdge,Semiconductor Materials & Equipment
 SO,Southern Company,Electric Utilities
 LUV,Southwest Airlines,Passenger Airlines
 SWK,Stanley Black & Decker,Industrial Machinery & Supplies & Components
@@ -456,6 +455,7 @@ TFC,Truist,Regional Banks
 TYL,Tyler Technologies,Application Software
 TSN,Tyson Foods,Packaged Foods & Meats
 USB,U.S. Bank,Diversified Banks
+UBER,Uber,Passenger Ground Transportation
 UDR,UDR Inc.,Multi-Family Residential REITs
 ULTA,Ulta Beauty,Specialty Stores
 UNP,Union Pacific Corporation,Rail Transportation
