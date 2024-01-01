@@ -397,7 +397,7 @@ REGN
 RF
 RSG
 RMD
-RVTY (Previously PKI)
+RVTY
 RHI
 ROK
 ROL
