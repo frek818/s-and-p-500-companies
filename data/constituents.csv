@@ -142,6 +142,7 @@ DHR,Danaher Corporation,Life Sciences Tools & Services
 DRI,Darden Restaurants,Restaurants
 DVA,DaVita Inc.,Health Care Services
 DAY,Dayforce,Human Resource & Employment Services
+DECK,Deckers Brands,Footwear
 DAL,Delta Air Lines,Passenger Airlines
 XRAY,Dentsply Sirona,Health Care Supplies
 DVN,Devon Energy,Oil & Gas Exploration & Production
@@ -401,7 +402,7 @@ REGN,Regeneron,Biotechnology
 RF,Regions Financial Corporation,Regional Banks
 RSG,Republic Services,Environmental & Facilities Services
 RMD,ResMed,Health Care Equipment
-RVTY,Revvity (Previously PerkinElmer),Health Care Equipment
+RVTY,Revvity,Health Care Equipment
 RHI,Robert Half,Human Resource & Employment Services
 ROK,Rockwell Automation,Electrical Components & Equipment
 ROL,Rollins Inc.,Environmental & Facilities Services
@@ -428,6 +429,7 @@ STT,State Street Corporation,Asset Management & Custody Banks
 STLD,Steel Dynamics,Steel
 STE,Steris,Health Care Equipment
 SYK,Stryker Corporation,Health Care Equipment
+SMCI,Supermicro,"Technology Hardware, Storage & Peripherals"
 SYF,Synchrony Financial,Consumer Finance
 SNPS,Synopsys,Application Software
 SYY,Sysco,Food Distributors
@@ -491,7 +493,6 @@ WST,West Pharmaceutical Services,Health Care Supplies
 WDC,Western Digital,"Technology Hardware, Storage & Peripherals"
 WRK,WestRock,Paper & Plastic Packaging Products & Materials
 WY,Weyerhaeuser,Timber REITs
-WHR,Whirlpool Corporation,Household Appliances
 WMB,Williams Companies,Oil & Gas Storage & Transportation
 WTW,Willis Towers Watson,Insurance Brokers
 WYNN,Wynn Resorts,Casinos & Gaming
@@ -500,5 +501,4 @@ XYL,Xylem Inc.,Industrial Machinery & Supplies & Components
 YUM,Yum! Brands,Restaurants
 ZBRA,Zebra Technologies,Electronic Equipment & Instruments
 ZBH,Zimmer Biomet,Health Care Equipment
-ZION,Zions Bancorporation,Regional Banks
 ZTS,Zoetis,Pharmaceuticals
